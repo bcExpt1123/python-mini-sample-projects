@@ -87,9 +87,9 @@ If you are new to Github and open source then, visit [here.](https://towardsdata
 
 [README Template](https://github.com/HubbleTM/python-mini-sample-projects/blob/master/README_TEMPLATE.md)
 
-## Connect On Social media
+<!-- ## Connect On Social media
 
-[Join WhatsApp group](https://chat.whatsapp.com/GlLTqQSbocLC23ntKU15O9)
+[Join WhatsApp group](https://chat.whatsapp.com/GlLTqQSbocLC23ntKU15O9) -->
 
 ## Contributors ✨
 
